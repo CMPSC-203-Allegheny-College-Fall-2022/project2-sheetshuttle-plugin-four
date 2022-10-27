@@ -6,15 +6,18 @@
 
 Please answer yes or no to this question. Then, every member needs to sign following the answer (separate commit from each team member).
 
-Yes 
+Yes!
 
-Brock Brumfield
+1.Brock Brumfield
+
+2.Bill Ochieng
 
 ## Sprint Planning
 
 Please provide a summary of tasks your team decided to tackle during the sprint and indicate each team member's specific tasks. Please specify the issue(s) by their number in your project's GitHub issue tracker.
+We are yet to get good tasks assigned we'll have it done by tomorrow
 
-- 
+-
 
 ## Scrum Meetings
 
