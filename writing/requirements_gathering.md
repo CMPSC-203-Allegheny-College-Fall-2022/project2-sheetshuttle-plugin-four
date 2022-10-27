@@ -8,6 +8,8 @@ Please answer yes or no to this question. Then, every member needs to sign follo
 
 Yes
 
+Nic Ingerson
+
 ## User Stories
 
 The client requires us to make an automated grading tool, or grading API, that takes spreadsheet with grades and will automatically create a markdown file, and then pushes the markdown file to ...
