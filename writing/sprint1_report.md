@@ -12,12 +12,11 @@ Yes!
 
 2.Bill Ochieng
 
+3. Nic Ingerson
+
 ## Sprint Planning
 
-Please provide a summary of tasks your team decided to tackle during the sprint and indicate each team member's specific tasks. Please specify the issue(s) by their number in your project's GitHub issue tracker.
-We are yet to get good tasks assigned we'll have it done by tomorrow
-
--
+Overall, each member plans to spend about 8-10 hours each week on this project; including about 4.5 hours of class time, an hour for completing practicals, as well as our team meetings. For the first sprint, we plan to spend the majority of our remaining time developing an example plugin. Specifically, we will be doing research into how SheetShuttle currently interacts with Google Sheets and pulls the information. This will allow us to learn more about how we will connect the information to GitHub. We will also be talking with the Computer Science department faculty about how GitHub connectivity in code will work, how it fetches data, how we would maintain the plugin, how we will deploy to GitHub, how to run tests for this program (if we need to in the first place), whether the code should utilize a csv file.
 
 ## Scrum Meetings
 
@@ -28,6 +27,11 @@ TODO: Please provide answers to the three stand-up meeting questions from each t
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+Nic Ingerson
+- As there was no previous meeting, no tasks have been done yet; however, I have looked into the source code for SheetShuttle to see how we may need to utilize it in our plugin.
+- Before our next meeting, I will be doing research into how SheetShuttle communicates with Google Sheets and determine whether we can use a similar approach to communicate with GitHub Classroom.
+- Currently, there are no obstacles in my way.
 
 ### Stand-Up Meeting Two (Date)
 
