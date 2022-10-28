@@ -22,7 +22,7 @@ Overall, each member plans to spend about 8-10 hours each week on this project; 
 
 TODO: Please provide answers to the three stand-up meeting questions from each team member.
 
-### Stand-Up Meeting One (Date)
+### Stand-Up Meeting One (10/27/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
