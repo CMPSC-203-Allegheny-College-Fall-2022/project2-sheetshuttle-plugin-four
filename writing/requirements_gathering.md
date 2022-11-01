@@ -8,7 +8,7 @@ Please answer yes or no to this question. Then, every member needs to sign follo
 
 Yes
 
-Nic Ingerson
+1. Nic Ingerson
 
 ## User Stories
 
