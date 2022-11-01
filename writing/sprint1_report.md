@@ -8,9 +8,9 @@ Please answer yes or no to this question. Then, every member needs to sign follo
 
 Yes!
 
-1.Brock Brumfield
+1. Brock Brumfield
 
-2.Bill Ochieng
+2. Bill Ochieng
 
 3. Nic Ingerson
 
@@ -33,11 +33,16 @@ Nic Ingerson
 - Before our next meeting, I will be doing research into how SheetShuttle communicates with Google Sheets and determine whether we can use a similar approach to communicate with GitHub Classroom.
 - Currently, there are no obstacles in my way.
 
-### Stand-Up Meeting Two (Date)
+### Stand-Up Meeting Two (11/1/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+Nic Ingerson
+- Since the last stand-up meeting, I have done research into how SheetShuttle currently communicates with GitHub Classroom and Google Sheets.
+- Before our next meeting, I plan to 
+- Currently, finding a way to pull the Google Sheet directly as opposed to using the downloaded sheet is the greatest challenge that I have faced.
 
 ### Stand-Up Meeting Three (Date)
 
