@@ -41,7 +41,7 @@ Nic Ingerson
 
 Nic Ingerson
 - Since the last stand-up meeting, I have done research into how SheetShuttle currently communicates with GitHub Classroom and Google Sheets.
-- Before our next meeting, I plan to 
+- Before our next meeting, I plan to fully understand the files that we will be utilizing when writing the program. Further, I plan to learn how to read in data from a Google Sheet.
 - Currently, finding a way to pull the Google Sheet directly as opposed to using the downloaded sheet is the greatest challenge that I have faced.
 
 ### Stand-Up Meeting Three (Date)
@@ -66,11 +66,11 @@ Nic Ingerson
 
 ### Sprint review
 
-TODO: Which tasks were finished and which were not? For the tasks that were not completed, explain why not.
+We had two issues to work with for this first sprint which served as research. We looked into Google API access as well as OBC's project GradeAlert. There were no tasks that were not completed as all of the goals we set for ourselves were achieved. We implemented direct Google Sheets access.
 
 ### Summary of sprint retrospective
 
-TODO: How did you do as a team? What team strategies will you continue to employ? How can you, as a team, improve in the next project?
+As a team, we did relatively well with completing the tasks we set out to complete, but for the next sprint, I think we need to work on communication.
 
 ## Contributions
 
