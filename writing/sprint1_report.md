@@ -125,6 +125,12 @@ this.
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
+Nic Ingerson
+
+- Since the last meeting, I was able to do research on web communication with Python, though I am unable to fully understand it.
+- Because of my inability to fully comprehend web communication in Python, I will continue to research and report my findings to my team.
+- Besides what has already been illustrated, there are no obstacles standing in my way currently.
+
 Brock Brumfield
 
 - Since the last meeting, I have a better understanding of API functionality, and looked a little bit into how google sheets can be converted to a markdown file.
