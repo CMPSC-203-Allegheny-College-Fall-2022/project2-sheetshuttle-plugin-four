@@ -86,6 +86,12 @@ Bill Ochieng
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
+Nic Ingerson
+
+- Since the last meeting, I have worked with Brock doing research into the source code and understanding its functionality.
+- I will continue to research and implement functionality to push directly from Google Sheets before our next meeting.
+- With the task ahead of us, the main obstacle in our way is understanding fully how we implement what we need to implement for this plugin to work.
+
 Brock Brumfield
 
 - More research has been done on looking into the source code, and have gotten a better understanding of what the file is 
