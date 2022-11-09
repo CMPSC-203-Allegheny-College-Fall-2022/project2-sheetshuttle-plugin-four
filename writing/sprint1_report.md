@@ -36,8 +36,9 @@ Nic Ingerson
 
 Bill Ochieng
 
--> I was looking at how the grading tool that is almost similar to our project works and this was prompting me to have a meeting with one other member of our group, where we met with the faculty that owns the grading tool and just got an insight of how the functionality of his tool works and the meeting was helpful, opening our eyes to different approaches to our task.
--> As I prepare for the next meeting i'm diving into sheetshuttle and trying to see how we can implement a plug in a markdown.
+-> I was looking at how the grading tool that is almost similar to how our project works and this was prompting me to have a meeting with one other member of our group, where we met with the faculty that owns the grading tool and just got an insight of how the functionality of his tool works and the meeting was helpful, opening our eyes to different approaches to our task.
+-> As I prepare for the next meeting i'm diving into sheet shuttle and trying to see how we can implement a plug in a markdown.
+-> Scheduling a meeting with Noor, just for office hours in places where I feel I have a challenge.
 
 ### Stand-Up Meeting Two (11/1/2022)
 
@@ -50,6 +51,11 @@ Nic Ingerson
 - Since the last stand-up meeting, I have done research into how SheetShuttle currently communicates with GitHub Classroom and Google Sheets.
 - Before our next meeting, I plan to
 - Currently, finding a way to pull the Google Sheet directly as opposed to using the downloaded sheet is the greatest challenge that I have faced.
+
+Bill Ochieng
+
+-> Since the last meeting, we have been able to create prs and add stuff to our repo and we keeping adding to the file and about add some code and some debugging
+-> Before our next meeting, I plan to add some code to our repo and start debugging it as we continue working on the project.
 
 ### Stand-Up Meeting Three (Date)
 
@@ -73,27 +79,25 @@ Nic Ingerson
 
 ### Sprint review
 
-TODO: Which tasks were finished and which were not? For the tasks that were not completed, explain why not.
+Which tasks were finished and which were not? For the tasks that were not completed, explain why not.
 
 ### Summary of sprint retrospective
 
-TODO: How did you do as a team? What team strategies will you continue to employ? How can you, as a team, improve in the next project?
+How did you do as a team? What team strategies will you continue to employ? How can you, as a team, improve in the next project?
 
 ## Contributions
 
-TODO: Please provide reference(s) to the GitHub issue(s) taken up by your team:
+Please provide reference(s) to the GitHub issue(s) taken up by your team:
 
 - [Issue](Add a URL)
 
-TODO: Please provide references to the GitHub pull requests to which your team contributed this week:
+ Please provide references to the GitHub pull requests to which your team contributed this week:
 
 - [PR](Add a URL)
 
-TODO: If you were a scrum lead, please briefly describe your contributions related to that role.
+If you were a scrum lead, please briefly describe your contributions related to that role.
 
 ## At a high level, what were the most important professional tasks that your team completed?
-
-TODO:
 
 - First task
 - Second task
@@ -101,16 +105,14 @@ TODO:
 
 ## At a high level, what were the most important technical tasks that your team completed?
 
-TODO:
-
 - First task
 - Second task
 - Third task
 
 ## After completing this sprint of the project, what is a task that you want to practice more? Why?
 
-TODO: Please provide a response to this question.
+Please provide a response to this question.
 
 ## After completing this assignment, what is your biggest concern about team-based software engineering?
 
-TODO: Please provide a response to this question.
+Please provide a response to this question.
