@@ -1,6 +1,6 @@
 # Report on Project 2 Sprint 1
 
-## Reflection by Add Your Team Names Here
+## Bill,Brock,Nic,Aveet
 
 ## Did you follow the code of conduct during the completion of this project?
 
@@ -20,7 +20,7 @@ Overall, each member plans to spend about 8-10 hours each week on this project; 
 
 ## Scrum Meetings
 
-TODO: Please provide answers to the three stand-up meeting questions from each team member.
+Please provide answers to the three stand-up meeting questions from each team member.
 
 ### Stand-Up Meeting One (10/27/2022)
 
@@ -29,9 +29,15 @@ TODO: Please provide answers to the three stand-up meeting questions from each t
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - As there was no previous meeting, no tasks have been done yet; however, I have looked into the source code for SheetShuttle to see how we may need to utilize it in our plugin.
 - Before our next meeting, I will be doing research into how SheetShuttle communicates with Google Sheets and determine whether we can use a similar approach to communicate with GitHub Classroom.
 - Currently, there are no obstacles in my way.
+
+Bill Ochieng
+
+-> I was looking at how the grading tool that is almost similar to our project works and this was prompting me to have a meeting with one other member of our group, where we met with the faculty that owns the grading tool and just got an insight of how the functionality of his tool works and the meeting was helpful, opening our eyes to different approaches to our task.
+-> As I prepare for the next meeting i'm diving into sheetshuttle and trying to see how we can implement a plug in a markdown.
 
 ### Stand-Up Meeting Two (11/1/2022)
 
@@ -40,8 +46,9 @@ Nic Ingerson
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - Since the last stand-up meeting, I have done research into how SheetShuttle currently communicates with GitHub Classroom and Google Sheets.
-- Before our next meeting, I plan to 
+- Before our next meeting, I plan to
 - Currently, finding a way to pull the Google Sheet directly as opposed to using the downloaded sheet is the greatest challenge that I have faced.
 
 ### Stand-Up Meeting Three (Date)
