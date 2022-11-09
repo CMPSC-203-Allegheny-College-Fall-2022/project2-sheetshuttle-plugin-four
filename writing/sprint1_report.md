@@ -74,13 +74,11 @@ As a team, we did relatively well with completing the tasks we set out to comple
 
 ## Contributions
 
-TODO: Please provide reference(s) to the GitHub issue(s) taken up by your team:
+- [Implement functionality to pull data directly from Google Sheets](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/automated-grading-plugin/issues/5)
 
-- [Issue](Add a URL)
+- [Integrate Grade Alert functionality of pushing individual Grades to Gradebooks into SheetShuttle](https://github.com/CMPSC-203-Allegheny-College-Fall-2022/automated-grading-plugin/issues/2)
 
-TODO: Please provide references to the GitHub pull requests to which your team contributed this week:
-
-- [PR](Add a URL)
+Unfortunately as a team, we all pushed directly to the main branch, so there were no pull requests.
 
 TODO: If you were a scrum lead, please briefly describe your contributions related to that role.
 
