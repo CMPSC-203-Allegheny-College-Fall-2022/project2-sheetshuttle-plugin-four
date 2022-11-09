@@ -6,9 +6,11 @@
 
 Please answer yes or no to this question. Then, every member needs to sign following the answer (separate commit from each team member).
 
-Yes
+1)Yes
+2)Yes
 
 1. Nic Ingerson
+2. Bill Ochieng
 
 ## User Stories
 
@@ -23,3 +25,4 @@ Include links to GitHub issues created
 ## Acceptance Criteria
 
 Write our acceptance criteria
+-> Our project will only be considered complete when we have an automated grading tool that will be able to do what the user story says down to the letter without any exceptions.We'll keep updating this with time.
