@@ -106,6 +106,11 @@ this out.
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
+Nic Ingerson
+- Since the last stand-up meeting, I have found a tutorial on how to connect to Google Sheets using Python. I have a sample quickstart file in place that allows us to pull information from a Sheet based on an input Sheets ID.
+- Before the next meeting, I will work with how to adapt this to our planned implementation.
+- General lack of knowledge about how to communicate over the web using Python is about the only obstacle in my way at this point in time.
+
 Brock Brumfield
 - Since last meeting, I was able to do research on APi documentation, still need todo more. Files have been added to the 
 sample data folder.
