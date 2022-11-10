@@ -180,11 +180,19 @@ If you were a scrum lead, please briefly describe your contributions related to 
 - Second task
 - Third task
 
+-  The first professional task was to be able to all meet together, which we were eventually able to communicate andfind 
+times that worked for all of us.
+- A second task that was completed was being able to assign tasks and work on them. Different task were assigned to 
+different people and some tasks had multiple people on the and all were able to worked on and most were able ot be finished.
+- A third task was being able to meet with our client. We were able to conduct a helpful meeting with out client which lead to us being able to get on track with this first sprint.
+
 ## At a high level, what were the most important technical tasks that your team completed?
 
 - First task
 - Second task
 - Third task
+
+- No technical tasks were completed during this sprint due to the amount of research done during this phase.
 
 ## After completing this sprint of the project, what is a task that you want to practice more? Why?
 
