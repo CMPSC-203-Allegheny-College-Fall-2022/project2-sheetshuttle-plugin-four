@@ -15,6 +15,8 @@ Yes!
 
 3. Nic Ingerson
 
+4. Aveet Desai
+
 ## Sprint Planning
 
 Overall, each member plans to spend about 8-10 hours each week on this project; including about 4.5 hours of class time, an
@@ -55,6 +57,12 @@ concepts needed for this project.
 - Some of the obstacles that are in the way have todo with me just not being fully aware of what certian things do in the
 code. Reseach will help with this.
 
+Aveet Desai
+
+- Although there we had no previous meeting, I, along with Bill looked into gaining a better understanding of Professor Bonham-Carter's tool, Grade Alert works. This meeting helps us gain a better understanding of how we can approach our project, utilizing the funcctioniality of GradeAlert into SheetShuttle.
+- In preparation for next meeting I will be looking at how to convert google sheets into a markdown file in a reposistory.
+- No major challenges/obstacles thus far.
+
 ### Stand-Up Meeting Two (11/1/2022)
 
 - What did you since last meeting?
@@ -80,6 +88,12 @@ Bill Ochieng
 -> Since the last meeting, we have been able to create prs and add stuff to our repo and we keeping adding to the file and about add some code and some debugging
 -> Before our next meeting, I plan to add some code to our repo and start debugging it as we continue working on the project.
 
+Aveet Desai
+
+- Since our last meeting, we created a repository with folders and some sample code from GradeAlert. We also created a PR.
+- By next meeting, I plan to write some code based on GradeAlert, where a markdown is created for each repository.
+-  So far, we are still wroking on broader aspect of the project, however, by next meeting we expect to each have a task that focuses on particulars.
+
 ### Stand-Up Meeting Three (11/3/2022)
 
 - What did you since last meeting?
@@ -104,6 +118,11 @@ Bill Ochieng
 
 - Since the last meeting i've worked on sheet shuttle and still is in progress running and working with it. I will continue to look at the plug in and see how we are to implement it.
 
+Aveet Desai
+
+- As of last meeting, I attempted to install SheetShuttle and try running it. I ran into some issues with the install therefore have been working on 
+- By next meeting I hope to fix the errors I am getting with the install of SheetShuttle.
+
 ### Stand-Up Meeting Four (11/5/2022)
 
 - What did you since last meeting?
@@ -127,6 +146,10 @@ this.
 
 - I am yet to make any progress with my previous issue and i am still working on it trying to work out the implementation. I should have this done before the next meeting hopefully so that i can create a new issue and tackle it.
 
+Aveet Desai
+- I was able to get SheetShuttle up and running since the last meeting Along with that, I was also able to run gradeAlert to find similarities between the two.
+- By next meeting, now that I am able to run the programs, I hope to write some code that can be implemented.
+
 ### Stand-Up Meeting Five (11/7/2022)
 
 - What did you do since last meeting?
@@ -149,6 +172,9 @@ Bill Ochieng
 
 - I have been able to run sheet shuttle i have started creating a plug in and pr should be up and ready for review from the technical leaders.
 The challenge is now how to implement the plug in together with sheet shuttle something i am still looking into and planning to schedule office hours for.
+
+Aveet Desai
+- I have been working on the code of converting google sheets into a markdown file. Unlike gradeAlert, where this is done from a csv file, we would have to convert from a google url.
 
 ## Sprint Review and Retrospective
 
