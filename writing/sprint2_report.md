@@ -1,14 +1,16 @@
 # Report on Project 2 Sprint 1
 
-## Reflection by Add Your Team Names Here
+## Reflection by Brock Brumfield, Aveet Desai, Nic Ingerson, and Bill Ochieng
 
 ## Did you follow the code of conduct during the completion of this project?
 
-TODO: Please answer yes or no to this question. Then, every member needs to sign following the answer (separate commit from each team member).
+Yes!
+
+- Nic Ingerson
 
 ## Sprint Planning
 
-TODO: Please provide a summary of tasks your team decided to tackle during the sprint and indicate each team member's specific tasks. Please specify the issue(s) by their number in your project's GitHub issue tracker.
+For this second sprint, our plan is to get on to the main issue of the project -- communicating with GitHub in order to push grades directly to an individual student's repository. We will continue to spend the same amount of time on this sprint as we did before.
 
 ## Scrum Meetings
 
