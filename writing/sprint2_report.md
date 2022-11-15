@@ -7,6 +7,7 @@
 Yes!
 
 - Nic Ingerson
+- Brock Brumfield
 
 ## Sprint Planning
 
@@ -22,11 +23,26 @@ TODO: Please provide answers to the three stand-up meeting questions from each t
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
+Brock Brumfield
+
+- There was no meeting before this.
+- Before next meeting I will look into how to push markdown files into individual repositories. Need to be more efficient 
+with this sprint and try to get some technical additions as well.
+- The obstacles are the lack of kwowledge on how to push markdownfiles to seperate repos so a lot of research will have to 
+be done in order to solve this.
+
 ### Stand-Up Meeting Two (Date)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+- Since the last meeting we were able to do some research and get a good sense of direction as to what we need todo next. 
+Since we had to touch up project one we got a little delayed but we feel we are back on track.
+- Before next meeting we will try and see if we can put some technical additions in and see what happens. Most likely will 
+not work so more research will still need to be done.
+Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as 
+trying commuicate with my teammates and bouncing ideas off each other.
 
 ### Stand-Up Meeting Three (Date)
 
