@@ -17,7 +17,7 @@ For this second sprint, our plan is to get on to the main issue of the project -
 
 TODO: Please provide answers to the three stand-up meeting questions from each team member.
 
-### Stand-Up Meeting One (Date)
+### Stand-Up Meeting One (11/10/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
@@ -31,24 +31,32 @@ with this sprint and try to get some technical additions as well.
 - The obstacles are the lack of kwowledge on how to push markdownfiles to seperate repos so a lot of research will have to 
 be done in order to solve this.
 
-### Stand-Up Meeting Two (Date)
+### Stand-Up Meeting Two (11/15/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+Brock Brumfield
 
 - Since the last meeting we were able to do some research and get a good sense of direction as to what we need todo next. 
 Since we had to touch up project one we got a little delayed but we feel we are back on track.
 - Before next meeting we will try and see if we can put some technical additions in and see what happens. Most likely will 
 not work so more research will still need to be done.
-Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as 
+- Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as 
 trying commuicate with my teammates and bouncing ideas off each other.
 
-### Stand-Up Meeting Three (Date)
+### Stand-Up Meeting Three (11/17/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+Brock Brumfield
+
+- Since last meeting, we were able to add files under plugin that will allow us to get closer to reaching our goal. The files will help provide a a since of direction in the right way, work still needs to be as there as still some todos.
+- Before the next meeting we will try to work on the todos and see if we can get some code functioning, most likely will not figure it out right away.
+- Some of the obstacles in the way currently is that we do not have anything running yet so much work is still in need of being done.
 
 ### Stand-Up Meeting Four (Date)
 
