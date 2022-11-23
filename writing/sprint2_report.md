@@ -63,6 +63,11 @@ Nic Ingerson
 - Before the next meeting, I will look into the sample plugin and see how we can use that as a framework for our code going forward.
 - There are no immedate obstacles in our way besides what has already been said.
 
+Brock Brumfield
+- Since the last meeting, some work has been done and progress made on the grading files but much more work is to be done. We are sitting comfortably as we move closer towards thanksgiving break.
+- Before the next meeting we will need to add more to the files and work on the todos still. We are going to have todo some more research and try to use some of the sources here on campus to try and help us advance forward on this certain issue.
+- The obstacles that stand in our way currently are the todos that are still yet to be done. The todos will have to be completed before the end of the project for sure, and research will be needed in order for completion. 
+
 ### Stand-Up Meeting Four (11/17/2022)
 
 - What did you since last meeting?
@@ -74,6 +79,12 @@ Nic Ingerson
 - Before the next meeting, I will look into these articles and see what I can do with that information.
 - Because of the new information from Brock, there are fewer obstacles in our way than before.
 
+Brock Brumfield
+- Since the last meeting not much has been done to the project. I have shared some in formation with the group on how to push information to individual repos. 
+- Before the next meeting, I will try to look at some todos and do more research and try to find information. 
+- No current obstacles are standing in our way.
+
+
 ### Stand-Up Meeting Five (11/20/2022)
 
 - What did you since last meeting?
@@ -84,6 +95,11 @@ Nic Ingerson
 - Since the last information, I have looked into the articles shared with us and compared it to our code to see how we can implement it.
 - Before the next meeting, I will try to implement the information in the articles into our source code.
 - Actually implementing these concepts, will most likely be a great challenge.
+
+Brock Brumfield
+- Since the last meeting, I have looked at some articles and read more. Trying to find ways to add more contributions.
+- Before the next meeting, I should be able to share more information with my group about our project, and work on whatever is need from my group.
+- No obstacles currently stand in the way. 
 
 ## Sprint Review and Retrospective
 
