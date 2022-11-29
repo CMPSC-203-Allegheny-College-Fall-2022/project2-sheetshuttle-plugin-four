@@ -1,24 +1,28 @@
 # Report on Project 2 Sprint 1
 
-## Reflection by Add Your Team Names Here
+## Reflection by Brock Brumfield, Aveet Desai, Nic Ingerson, and Bill Ochieng
 
 ## Did you follow the code of conduct during the completion of this project?
 
-TODO: Please answer yes or no to this question. Then, every member needs to sign following the answer (separate commit from each team member).
+Yes!
+- Nic Ingerson
 
 ## Sprint Planning
 
-TODO: Please provide a summary of tasks your team decided to tackle during the sprint and indicate each team member's specific tasks. Please specify the issue(s) by their number in your project's GitHub issue tracker.
+During this sprint, we plan to implement functionality to pull information out of the Google Sheet and convert it into a markdown file. We will then finish the surrounding tasks including writing documentation with an accompanying website, writing test cases, and creating a GitHub Actions.
 
 ## Scrum Meetings
 
-TODO: Please provide answers to the three stand-up meeting questions from each team member.
-
-### Stand-Up Meeting One (Date)
+### Stand-Up Meeting One (11/28/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+Nic Ingerson
+- There was no meeting before this, but since the last sprint, I have worked out a final goal for this sprint.
+- Before the next meeting, I will look into how to convert a sheet directly into a markdown file without the need to convert to a CSV first.
+- Currently, the sheet conversion is the biggest challenge we are facing right now.
 
 ### Stand-Up Meeting Two (Date)
 
