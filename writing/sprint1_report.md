@@ -92,7 +92,7 @@ Aveet Desai
 
 - Since our last meeting, we created a repository with folders and some sample code from GradeAlert. We also created a PR.
 - By next meeting, I plan to write some code based on GradeAlert, where a markdown is created for each repository.
--  So far, we are still wroking on broader aspect of the project, however, by next meeting we expect to each have a task that focuses on particulars.
+- So far, we are still wroking on broader aspect of the project, however, by next meeting we expect to each have a task that focuses on particulars.
 
 ### Stand-Up Meeting Three (11/3/2022)
 
@@ -120,7 +120,7 @@ Bill Ochieng
 
 Aveet Desai
 
-- As of last meeting, I attempted to install SheetShuttle and try running it. I ran into some issues with the install therefore have been working on 
+- As of last meeting, I attempted to install SheetShuttle and try running it. I ran into some issues with the install therefore have been working on
 - By next meeting I hope to fix the errors I am getting with the install of SheetShuttle.
 
 ### Stand-Up Meeting Four (11/5/2022)
@@ -147,8 +147,13 @@ this.
 - I am yet to make any progress with my previous issue and i am still working on it trying to work out the implementation. I should have this done before the next meeting hopefully so that i can create a new issue and tackle it.
 
 Aveet Desai
+
 - I was able to get SheetShuttle up and running since the last meeting Along with that, I was also able to run gradeAlert to find similarities between the two.
 - By next meeting, now that I am able to run the programs, I hope to write some code that can be implemented.
+
+Bill Ochieng
+
+My task was completed when i cracked how to implement our plug in sheet shuttle and was able to comprehend how to use it. For now my task is to look at the plug in and start writing code.
 
 ### Stand-Up Meeting Five (11/7/2022)
 
@@ -174,6 +179,7 @@ Bill Ochieng
 The challenge is now how to implement the plug in together with sheet shuttle something i am still looking into and planning to schedule office hours for.
 
 Aveet Desai
+
 - I have been working on the code of converting google sheets into a markdown file. Unlike gradeAlert, where this is done from a csv file, we would have to convert from a google url.
 
 ## Sprint Review and Retrospective
@@ -219,9 +225,9 @@ If you were a scrum lead, please briefly describe your contributions related to 
 - Second task
 - Third task
 
--  The first professional task was to be able to all meet together, which we were eventually able to communicate andfind 
+- The first professional task was to be able to all meet together, which we were eventually able to communicate andfind
 times that worked for all of us.
-- A second task that was completed was being able to assign tasks and work on them. Different task were assigned to 
+- A second task that was completed was being able to assign tasks and work on them. Different task were assigned to
 different people and some tasks had multiple people on the and all were able to worked on and most were able ot be finished.
 - A third task was being able to meet with our client. We were able to conduct a helpful meeting with out client which lead to us being able to get on track with this first sprint.
 
