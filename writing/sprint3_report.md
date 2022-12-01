@@ -36,6 +36,8 @@ Brock Brumfield
 
 Bill Ochieng
 
+I have been looking into GatorEducator and trying to use their approach to read and write to markdown. My task for this week is much more on researching and looking into how to approach the task, hopefully i crack this soon so that i can get beck to debugging. I have also been trying to reach out to Noor and schedule office hours just to try and tackle this challenge.
+
 ### Stand-Up Meeting Two (11/29/2022)
 
 - What did you since last meeting?
@@ -49,6 +51,8 @@ Brock Brumfield
 - Obstacles that stand in they way are converting spreadsheets into a mardownfile and be able to push individually.
 
 Bill Ochieng
+
+I am yet to find a time that Noor is available to schedule a meeting and try ask for some insight. Other than that still on the research stage and trying to come up with different approach on how to access these directories and files using our plug in. Hopefully this gets figured out before the end of the week so that we can start looking at the api referencing website using Mk Docs.
 
 ### Stand-Up Meeting Three (Date)
 
