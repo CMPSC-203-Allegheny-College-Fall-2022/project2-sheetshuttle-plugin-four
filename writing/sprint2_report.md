@@ -34,6 +34,10 @@ Brock Brumfield
 - Before next meeting I will look into how to push markdown files into individual repositories. Need to be more efficient with this sprint and try to get some technical additions as well.
 - The obstacles are the lack of kwowledge on how to push markdownfiles to seperate repos so a lot of research will have to be done in order to solve this.
 
+Bill Ochieng
+
+This was the first meeting we were having and I was personally trying to look into how we can run the plug IN to get information on the specific student repository and get the grades into markdown and use it to record the grades.
+
 ### Stand-Up Meeting Two (11/13/2022)
 
 - What did you since last meeting?
@@ -52,8 +56,11 @@ Brock Brumfield
 Since we had to touch up project one we got a little delayed but we feel we are back on track.
 - Before next meeting we will try and see if we can put some technical additions in and see what happens. Most likely will
 not work so more research will still need to be done.
-Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as
-trying commuicate with my teammates and bouncing ideas off each other.
+Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as trying commuicate with my teammates and bouncing ideas off each other.
+
+Bill Ochieng
+
+I took a pause from this project this week and went back to project one and trying to deploy the website using MK Docs unlike how were had it running and deployed.
 
 ### Stand-Up Meeting Three (11/15/2022)
 
@@ -73,6 +80,10 @@ Brock Brumfield
 - Before the next meeting we will need to add more to the files and work on the todos still. We are going to have todo some more research and try to use some of the sources here on campus to try and help us advance forward on this certain issue.
 - The obstacles that stand in our way currently are the todos that are still yet to be done. The todos will have to be completed before the end of the project for sure, and research will be needed in order for completion.
 
+Bill Ochieng
+
+I was able to add a yaml file and a Toml file to our documents that we would use to build our website on and deploy it using github.io.
+
 ### Stand-Up Meeting Four (11/17/2022)
 
 - What did you since last meeting?
@@ -91,6 +102,8 @@ Brock Brumfield
 - Before the next meeting, I will try to look at some todos and do more research and try to find information.
 - No current obstacles are standing in our way.
 
+Bill Ochieng
+
 ### Stand-Up Meeting Five (11/20/2022)
 
 - What did you since last meeting?
@@ -108,6 +121,8 @@ Brock Brumfield
 - Since the last meeting, I have looked at some articles and read more. Trying to find ways to add more contributions.
 - Before the next meeting, I should be able to share more information with my group about our project, and work on whatever is need from my group.
 - No obstacles currently stand in the way.
+
+Bill Ochieng
 
 ## Sprint Review and Retrospective
 
