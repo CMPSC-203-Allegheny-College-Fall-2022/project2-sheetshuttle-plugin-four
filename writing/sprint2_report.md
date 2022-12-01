@@ -8,6 +8,7 @@ Yes!
 
 - Nic Ingerson
 - Brock Brumfield
+- Bill Ochieng
 
 ## Sprint Planning
 
@@ -22,16 +23,16 @@ For this second sprint, our plan is to get on to the main issue of the project -
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - There was no meeting prior to this.
 - Before the next meeting, I will look into how to get started with the coding aspect of this sprint.
 - A lack of knowledge on how to do certain things is the only obstacle in our way currently.
 
 Brock Brumfield
+
 - There was no meeting before this.
-- Before next meeting I will look into how to push markdown files into individual repositories. Need to be more efficient 
-with this sprint and try to get some technical additions as well.
-- The obstacles are the lack of kwowledge on how to push markdownfiles to seperate repos so a lot of research will have to 
-be done in order to solve this.
+- Before next meeting I will look into how to push markdown files into individual repositories. Need to be more efficient with this sprint and try to get some technical additions as well.
+- The obstacles are the lack of kwowledge on how to push markdownfiles to seperate repos so a lot of research will have to be done in order to solve this.
 
 ### Stand-Up Meeting Two (11/13/2022)
 
@@ -40,16 +41,18 @@ be done in order to solve this.
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - Since the last meeting, we were able to have a good scope on how we are going to get rolling on this project throughout this sprint.
 - Before the next meeting, I will try to contribute to the source code with TODOs and technical contributions.
 - While we know _what_ we are trying to do, the obstacle currently in our way is figuring out _how_ to go about it.
 
 Brock Brumfield
-- Since the last meeting we were able to do some research and get a good sense of direction as to what we need todo next. 
+
+- Since the last meeting we were able to do some research and get a good sense of direction as to what we need todo next.
 Since we had to touch up project one we got a little delayed but we feel we are back on track.
-- Before next meeting we will try and see if we can put some technical additions in and see what happens. Most likely will 
+- Before next meeting we will try and see if we can put some technical additions in and see what happens. Most likely will
 not work so more research will still need to be done.
-Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as 
+Obstacles in the way are not knowing what all should be added so going to on campus resourses will be helpful as well as
 trying commuicate with my teammates and bouncing ideas off each other.
 
 ### Stand-Up Meeting Three (11/15/2022)
@@ -59,14 +62,16 @@ trying commuicate with my teammates and bouncing ideas off each other.
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - Since the last meeting, TODOs were added, and I have tried to make some technical contributions. I have also discovered that the sample plugin used currently in SheetShuttle is very similar to what we are trying to do, so...
 - Before the next meeting, I will look into the sample plugin and see how we can use that as a framework for our code going forward.
 - There are no immedate obstacles in our way besides what has already been said.
 
 Brock Brumfield
+
 - Since the last meeting, some work has been done and progress made on the grading files but much more work is to be done. We are sitting comfortably as we move closer towards thanksgiving break.
 - Before the next meeting we will need to add more to the files and work on the todos still. We are going to have todo some more research and try to use some of the sources here on campus to try and help us advance forward on this certain issue.
-- The obstacles that stand in our way currently are the todos that are still yet to be done. The todos will have to be completed before the end of the project for sure, and research will be needed in order for completion. 
+- The obstacles that stand in our way currently are the todos that are still yet to be done. The todos will have to be completed before the end of the project for sure, and research will be needed in order for completion.
 
 ### Stand-Up Meeting Four (11/17/2022)
 
@@ -75,15 +80,16 @@ Brock Brumfield
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - Not much has been done since the last meeting as it was two days prior to this one, but Brock did share with us some documents on how to push to individual repositories.
 - Before the next meeting, I will look into these articles and see what I can do with that information.
 - Because of the new information from Brock, there are fewer obstacles in our way than before.
 
 Brock Brumfield
-- Since the last meeting not much has been done to the project. I have shared some in formation with the group on how to push information to individual repos. 
-- Before the next meeting, I will try to look at some todos and do more research and try to find information. 
-- No current obstacles are standing in our way.
 
+- Since the last meeting not much has been done to the project. I have shared some in formation with the group on how to push information to individual repos.
+- Before the next meeting, I will try to look at some todos and do more research and try to find information.
+- No current obstacles are standing in our way.
 
 ### Stand-Up Meeting Five (11/20/2022)
 
@@ -92,14 +98,16 @@ Brock Brumfield
 - Are there any obstacles in your way?
 
 Nic Ingerson
+
 - Since the last information, I have looked into the articles shared with us and compared it to our code to see how we can implement it.
 - Before the next meeting, I will try to implement the information in the articles into our source code.
 - Actually implementing these concepts, will most likely be a great challenge.
 
 Brock Brumfield
+
 - Since the last meeting, I have looked at some articles and read more. Trying to find ways to add more contributions.
 - Before the next meeting, I should be able to share more information with my group about our project, and work on whatever is need from my group.
-- No obstacles currently stand in the way. 
+- No obstacles currently stand in the way.
 
 ## Sprint Review and Retrospective
 

@@ -1,4 +1,4 @@
-""""TODO: implement me"""
+""""TODO: implement me, write a descriptive comment."""
 
 from sheetshuttle import github_objects
 from sheetshuttle import sheet_collector
