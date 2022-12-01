@@ -104,6 +104,8 @@ Brock Brumfield
 
 Bill Ochieng
 
+I finished updating project one and went back to looking at project 2 plugin , we had reached a point where we have a code prototype and just need to look into how to implement it with the excel sheet and use it as markdown.
+
 ### Stand-Up Meeting Five (11/20/2022)
 
 - What did you since last meeting?
@@ -123,6 +125,8 @@ Brock Brumfield
 - No obstacles currently stand in the way.
 
 Bill Ochieng
+
+I have started debugging our code and to see how we can get the it running and ready , so far we are a lot of blocks and challenges on the implementation and have scheduled a meeting with Noor Buchi to see how we can get an insight and get to work on that task.
 
 ## Sprint Review and Retrospective
 
