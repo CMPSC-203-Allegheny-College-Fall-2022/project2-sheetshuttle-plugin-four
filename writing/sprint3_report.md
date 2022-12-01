@@ -24,11 +24,21 @@ Nic Ingerson
 - Before the next meeting, I will look into how to convert a sheet directly into a markdown file without the need to convert to a CSV first.
 - Currently, the sheet conversion is the biggest challenge we are facing right now.
 
-### Stand-Up Meeting Two (Date)
+Brock Brumfield
+- There was not a meeting prior to this one. Since the last sprint, a lot of sheetshuttles code has been looked at and understood. With this we can see what code will be applicable to use for our project.
+- Before the next meeting, continue to look at sheetshuttle code and try to see if any other files other than the sheetcollector file has code that can be used as an outline for our project. 
+- The biggest obstacle in they way right now is understanding what all is applicable between the files being looked at in sheetshuttle for the grades.
+
+### Stand-Up Meeting Two (11/29/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
+
+Brock Brumfield
+- Since the last meeting, not too much progress has been made. Still reading through some files trying to see what code could help advance us towards the finish.
+- Before the next meeting, more notes to be taken on comprehending the code and bounce ideas off of the group to see what all could be applicable to our project.
+- Obstacles that stand in they way are converting spreadsheets into a mardownfile and be able to push individually.
 
 ### Stand-Up Meeting Three (Date)
 
