@@ -54,7 +54,23 @@ Bill Ochieng
 
 I am yet to find a time that Noor is available to schedule a meeting and try ask for some insight. Other than that still on the research stage and trying to come up with different approach on how to access these directories and files using our plug in. Hopefully this gets figured out before the end of the week so that we can start looking at the api referencing website using Mk Docs.
 
-### Stand-Up Meeting Three (Date)
+Nic Ingerson
+
+- Since the last meeting, I read through the functions of SheetShuttle and wrote down how they can be used with our plugin.
+- Before the next meeting, I will be writing down some questions about the plugin for Noor. These will include some clarifications about how the plugin should work and how we can write code to do what needs to be done.
+- The biggest obstacle in our way currently is trying to make this program work with any given Google Sheet. All professors have different ways of creating their gradebooks, and it is very difficult to define regions based on headers.
+
+### Stand-Up Meeting Three (12/1/2022)
+
+- What did you since last meeting?
+- What will you do before the next meeting?
+- Are there any obstacles in your way?
+
+Nic Ingerson
+
+- 
+
+### Stand-Up Meeting Four (12/6/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
@@ -62,15 +78,7 @@ I am yet to find a time that Noor is available to schedule a meeting and try ask
 
 Bill Ochieng
 
-### Stand-Up Meeting Four (Date)
-
-- What did you since last meeting?
-- What will you do before the next meeting?
-- Are there any obstacles in your way?
-
-Bill Ochieng
-
-### Stand-Up Meeting Five (Date)
+### Stand-Up Meeting Five (12/9/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
