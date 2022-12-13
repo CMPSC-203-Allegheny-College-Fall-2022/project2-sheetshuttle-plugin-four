@@ -92,7 +92,7 @@ Bill Ochieng
 
 ### Sprint review
 
-TODO: Which tasks were finished and which were not? For the tasks that were not completed, explain why not.
+In this sprint, we were able to provide functionality to extract each students' grades individually. However, we were unable to provide functionality for pushing to each repository when the spreadsheet is updated. This is because there is no way to unless the spreadsheet contains the students' GitHub usernames.
 
 ### Summary of sprint retrospective
 
