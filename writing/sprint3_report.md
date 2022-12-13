@@ -60,7 +60,7 @@ Nic Ingerson
 - Before the next meeting, I will be writing down some questions about the plugin for Noor. These will include some clarifications about how the plugin should work and how we can write code to do what needs to be done.
 - The biggest obstacle in our way currently is trying to make this program work with any given Google Sheet. All professors have different ways of creating their gradebooks, and it is very difficult to define regions based on headers.
 
-### Stand-Up Meeting Three (12/1/2022)
+### Stand-Up Meeting Three (12/2/2022)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
@@ -68,7 +68,9 @@ Nic Ingerson
 
 Nic Ingerson
 
-- 
+- Since the last meeting, I had questions for Noor to answer. We held a meeting with him to clear up anything, and I have notes written down.
+- Before the next meeting, I will be working on implementing Noor's suggestions and move on from there.
+- The greatest obstacle in my way right now is the fact that even Noor does not have an idea for how to implement certain features necessary for our plugin use. He brought up the automation problem; which is what SheetShuttle is built for. Automating the push to student repositories is nearly impossible unless each student's GitHub information is in the spreadsheet.
 
 ### Stand-Up Meeting Four (12/6/2022)
 
