@@ -100,6 +100,12 @@ Brock Brumfield
 
 Bill Ochieng
 
+Brock Brumfield
+
+- Since the last meeting, we have found a way to get the code functioning and printing results similarly to how we need them to be. 
+- We need to still get the code to funtion how we want it to, and do more work on our implementation. 
+- As of right now, we are looking as if we are heading in a good direction, no current big obstacles.
+
 ## Sprint Review and Retrospective
 
 ### Sprint review
