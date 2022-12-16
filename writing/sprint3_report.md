@@ -72,6 +72,12 @@ Nic Ingerson
 - Before the next meeting, I will be working on implementing Noor's suggestions and move on from there.
 - The greatest obstacle in my way right now is the fact that even Noor does not have an idea for how to implement certain features necessary for our plugin use. He brought up the automation problem; which is what SheetShuttle is built for. Automating the push to student repositories is nearly impossible unless each student's GitHub information is in the spreadsheet.
 
+Brock Brumfield
+
+- Since the last meeting, a meeting with Noor was held about the remaining questions on the project and what are our possible solutions.
+- Before next meeting, we will be working with Noors feedback, as well as trying to get code to print the correct out put.
+- Our big obstacle is that we do not have working code as of right now, we need to find a way to implement something that will be able to just print.
+
 ### Stand-Up Meeting Four (12/6/2022)
 
 - What did you since last meeting?
@@ -79,6 +85,8 @@ Nic Ingerson
 - Are there any obstacles in your way?
 
 Bill Ochieng
+
+
 
 ### Stand-Up Meeting Five (12/9/2022)
 
