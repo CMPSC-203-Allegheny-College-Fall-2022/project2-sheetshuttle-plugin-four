@@ -86,7 +86,11 @@ Brock Brumfield
 
 Bill Ochieng
 
+Brock Brumfield
 
+- Since the last meeting, work has been done on our presentation as well as our code and trying to get something to function correctly.
+- Before the next meeting, more work will have to be done on the presentaion, and still trying to implement something for the code.
+- Our obstacles are the still the same as before.
 
 ### Stand-Up Meeting Five (12/9/2022)
 
